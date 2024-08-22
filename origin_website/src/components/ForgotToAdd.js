@@ -13,7 +13,7 @@ const forgotToAddItems = [
 ];
 
 const ForgotToAdd = () => {
-    const { addToCart } = useContext(CartContext);
+    const { addToCart } = useContext(CartContext);  // Destructure the addToCart function from CartContext
 
     return (
         <>
@@ -28,19 +28,19 @@ const ForgotToAdd = () => {
                             <Box display="flex" alignItems="center" justifyContent="space-between" mt={1}>
                                 <Typography variant="body2">₹{item.price}</Typography>
                                 <Box
-                                    onClick={() => addToCart(item)}
+                                    onClick={() => addToCart(item)}  
                                     display="flex"
                                     alignItems="center"
                                     style={{
-                                        backgroundColor: '#FFD700', // Yellow background
-                                        color: '#000', // Black text
+                                        backgroundColor: '#FFD700', 
+                                        color: '#000', 
                                         padding: '4px 8px',
                                         borderRadius: '4px',
                                         cursor: 'pointer'
                                     }}
                                 >
                                     <Typography variant="body2" style={{ marginRight: '4px' }}>Add</Typography>
-                                    <i class="fa-solid fa-plus" />
+                                    <i className="fa-solid fa-plus" /> 
                                 </Box>
                             </Box>
                         </Box>
