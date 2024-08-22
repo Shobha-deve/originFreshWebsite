@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/originFreshWebsite/static/css/main.462288a1.css",
+    "main.js": "/originFreshWebsite/static/js/main.e0c08966.js",
+    "static/media/fa-solid-900.ttf": "/originFreshWebsite/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/originFreshWebsite/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/originFreshWebsite/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/originFreshWebsite/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/originFreshWebsite/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/originFreshWebsite/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/originFreshWebsite/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/vegetable_logo.jpg": "/originFreshWebsite/static/media/vegetable_logo.87e80d219c76307deb5a.jpg",
+    "static/media/fa-v4compatibility.woff2": "/originFreshWebsite/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/originFreshWebsite/index.html",
+    "main.462288a1.css.map": "/originFreshWebsite/static/css/main.462288a1.css.map",
+    "main.e0c08966.js.map": "/originFreshWebsite/static/js/main.e0c08966.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.462288a1.css",
+    "static/js/main.e0c08966.js"
+  ]
+}
