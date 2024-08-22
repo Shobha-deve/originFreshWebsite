@@ -49,7 +49,7 @@ const ProductDetailsPage = () => {
     }
   
     return (
-        <Container maxWidth="lg" sx={{ mt: 5 }}>
+        <Container maxWidth="lg" sx={{ mt: 10 }}>
             <Grid container spacing={3}>
                 {/* Product Image */}
                 <Grid item xs={12} md={6}>
